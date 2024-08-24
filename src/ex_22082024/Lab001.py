@@ -1,0 +1,11 @@
+x = list(range(1, 10, 1))
+y = list(range(1, 10,1))
+z = list(range(10,))
+print("x=",x)
+print("y=",y)
+print("z=",z)
+a = list(range(1, 10, 2))
+b = list(range(1, 10,-2))
+print("a=",a)
+print("b=",b)
+
